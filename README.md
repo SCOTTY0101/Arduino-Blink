@@ -4,7 +4,7 @@ Blink LED
 https://create.arduino.cc/editor/SCOTTY_777/25574b79-03c9-49fd-a4ee-2d2648436a58/preview
 
 /*
-coding attemps in C++
+coding attemps in C
 */
 
 
