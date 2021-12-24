@@ -1,4 +1,4 @@
-//Set up function with built in Arduino LED or select your own output pin.
+//Set up function with built in Arduino LED or select your own output pin ie Use pin13, led, 220ohm resistor and gnd pin.
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
