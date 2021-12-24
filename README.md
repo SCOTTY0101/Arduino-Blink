@@ -9,7 +9,7 @@ coding attemps in C
 
 
 //set up function of built in led or. 
-//Use pin13, 220ohm, gnd pin.
+//Use pin13, led, 220ohm resistor and gnd pin.
 
 void setup() {
   pinMode(13, OUTPUT);
